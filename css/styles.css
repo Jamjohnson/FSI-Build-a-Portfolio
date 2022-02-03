@@ -1,0 +1,22 @@
+body {
+    background-color: blue;
+}
+
+.My-Portfolio{
+    font-size: 72px;
+    text-align: center;
+    color: dodgerblue;
+    font-family: 'Trebuchet MS';
+}
+.Joshua-Johnson {
+    font-size: 50px;
+    color: dodgerblue;
+}
+.my-favorite {
+    color: gold;
+}
+div { background-color: maroon;
+border-width: thick;
+border-style: dotted
+}
+.body{ background-color: navy;}
