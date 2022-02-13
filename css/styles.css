@@ -1,0 +1,50 @@
+body {
+  background-color: darkred;
+  background-image: https://drive.google.com/file/d/1-n-KZGb0dptO1_g_porbtqW6cYXEpCCp/view?usp=sharing;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color:goldenrod;
+}
+.name {
+  color: burlywood;
+  text-align: center;
+}
+.job {
+  color: cadetblue;
+  text-align: center;
+  font-size: 40px;
+}
+.profPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.aaHeroes {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.believe {
+  font-size: 22px;
+  color: gold;
+}
+.abtMeTxt {
+  text-align: justify;
+}
+h3 {
+  text-align: center;
+  font-size: 40px;
+}
+p {
+  text-align: center;
+  color: beige;
+}
+
+ul {
+  text-align: center;
+}
