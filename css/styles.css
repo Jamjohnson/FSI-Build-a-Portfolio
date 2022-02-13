@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
   background-color: darkred;
   background-image: https://drive.google.com/file/d/1-n-KZGb0dptO1_g_porbtqW6cYXEpCCp/view?usp=sharing;
 }
@@ -48,3 +49,26 @@ p {
 ul {
   text-align: center;
 }
+=======
+    background-color: blue;
+}
+
+.My-Portfolio{
+    font-size: 72px;
+    text-align: center;
+    color: dodgerblue;
+    font-family: 'Trebuchet MS';
+}
+.Joshua-Johnson {
+    font-size: 50px;
+    color: dodgerblue;
+}
+.my-favorite {
+    color: gold;
+}
+div { background-color: maroon;
+border-width: thick;
+border-style: dotted
+}
+.body{ background-color: navy;}
+>>>>>>> e53c4f018268456dfd9012cceaaea62c2cb8184a
